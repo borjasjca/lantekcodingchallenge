@@ -2,6 +2,9 @@
 
 
 ## 1. Coding exercise: Comments
+
+### 1.1 About exercise
+
 I dedicated about 12 hours solving this exercise, but I spent most of the time on this exception: 
 
 **_System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel._**
@@ -10,7 +13,20 @@ The problem was caused by the security protocol, only supporting TLS 1.2 at serv
 
 I use to work with bussiness layer, retrieving and managing data from DB, so this exercise it's been a real challenge for me.
 
-## 3. Technical Questions
+### 1.2 About Test
+
+I have never been requested to add a Test Unit for 18 years in my actual job, so this has been another challenge for me. 
+
+### 1.3 About GitHub
+
+It is also the first time I work with GitHub (so sure you noticed it!!). That's been another discovery and I hope I have managed my first repository properly, due the circumstances.
+
+### 1.4 Summary
+
+The challenge has allowed me to discover more tools and libraries in three days than in 18 years. Thanks for that!! 
+
+
+## 2. Technical Questions
 
 **_1. How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test, use this as an opportunity to explain what you would add._**
    
