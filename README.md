@@ -7,6 +7,7 @@ I dedicated about 12 hours solving this exercise, but I spent most of the time o
 **_System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel._**
 
 The problem was caused by the security protocol, only supporting TLS 1.2 at server side, and I found the solution in internet after a lot of trials, removing the code for using different libraries and classes...
+
 I use to work with bussiness layer, retrieving and managing data from DB, so this exercise it's been a real challenge for me.
 
 ## 3. Technical Questions
