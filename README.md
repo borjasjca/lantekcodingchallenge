@@ -13,8 +13,10 @@ I use to work with bussiness layer, retrieving and managing data from DB, so thi
 
 **_1. How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test, use this as an opportunity to explain what you would add._**
    
-   I spent about 12 hours. 
+   I spent about 12 hours.
+   
    If I had more time, I would improve the presentation of the results, working on the tabulation and allowing the user not to exit the application for new requests.
+   
    I'd also send the requests in asyncronous mode.
    
 **_2. What was the most useful feature added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it._**
